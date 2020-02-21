@@ -12,4 +12,5 @@ leetcode with python3
 
 2020-02-20 [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
+2020-02-21 [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
 
