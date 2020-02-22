@@ -14,3 +14,5 @@ leetcode with python3
 
 2020-02-21 [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)
 
+2020-02-22 [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)
+
