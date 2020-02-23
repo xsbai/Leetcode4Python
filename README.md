@@ -16,3 +16,4 @@ leetcode with python3
 
 2020-02-22 [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)
 
+2020-02-23 [8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
